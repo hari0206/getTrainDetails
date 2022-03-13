@@ -6,3 +6,6 @@ pip install -r requirements.txt
 
 How to run code?
 python filedir/filename.py
+
+Git Repository Path
+https://github.com/hari0206/getTrainDetails.git
